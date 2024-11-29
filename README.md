@@ -107,10 +107,10 @@ lib/
 ## **Screenshot Aplikasi**  
 
 ### **Light Mode**  
-*(Tambahkan tangkapan layar Light Mode di sini)*  
+![image](/dark_mode_kalkulator.png)  
 
 ### **Dark Mode**  
-*(Tambahkan tangkapan layar Dark Mode di sini)*  
+![image](/light_mode_kalkulator.png)    
 
 ---
 
